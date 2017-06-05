@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HoleInTheStreet</string>
+    <string name="title_activity_find_holes">Map</string>
+</resources>
